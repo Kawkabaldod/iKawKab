@@ -1,8 +1,10 @@
 {
-    "LOADER": [
-        {
-            "folder_name": "floader",
-            "loader_version": 1
-        }
-    ]
+    "serverstatus":"true",
+    "noticemode":"true",
+    "dataclearmode":"false",
+    "servermeassage":"Shhh i can give you my dick now !",
+    "opentime":"Hay Noob What You Doing here ?",
+    "libs":"https://github.com/Kawkabaldod/iKawKab/raw/refs/heads/main/loader.zip",
+    "notice_title":"PUBG MOBILE (v.3.9.0)",
+    "notice_body":""
 }
